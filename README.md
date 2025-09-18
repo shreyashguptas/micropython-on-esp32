@@ -202,7 +202,14 @@ This project is open source. Please check the license file for details.
 
 ## 🏷️ Version History
 
-- **v1.0.0** (December 2024): Initial release with ESP32-C3, S3, C6 support
+- **v1.0.1** (September 18, 2025): Enhanced firmware detection and user experience
+- Improved firmware detection with persistent information display
+- Enhanced overwrite protection with detailed confirmation screens
+- Added ESP32-C6 support alongside existing C3, S3, and generic ESP32
+- Improved arrow key navigation with persistent firmware information
+- Added comprehensive error handling and troubleshooting
+
+- **v1.0.0** (September 18, 2025): Initial release with ESP32-C3, S3, C6 support
 - Added automatic device detection
 - Added firmware detection and overwrite protection
 - Added interactive menu navigation
@@ -210,6 +217,6 @@ This project is open source. Please check the license file for details.
 
 ---
 
-**Created**: December 2024  
+**Created**: September 18, 2025  
 **Compatible with**: macOS, Linux, Windows  
 **ESP32 Models**: ESP32, ESP32-C3, ESP32-S3, ESP32-C6
